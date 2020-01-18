@@ -1,6 +1,6 @@
 package hello;
 
-public class HelloBean implements java.io.Serializable{
+public class HelloBean extends HAHAHA{
   private String name1 = "World1";
   public String name2 = "¥@¬É2";
   
