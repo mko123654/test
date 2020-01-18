@@ -2,7 +2,7 @@ package hello;
 
 public class HelloBean extends HAHAHA{
   private String name1 = "World1";
-  public String name2 = "世界2";
+  public String name2 = "世界3";
   
 
   public String getName1() {
