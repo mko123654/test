@@ -2,7 +2,7 @@ package hello;
 
 public class HelloBean implements java.io.Serializable{
   private String name1 = "World1";
-  private String name2 = "World2";
+  private String name2 = "¥@¬É2";
 
   public String getName1() {
     return name1;
